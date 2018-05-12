@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '39673'
     url: http://www.gutenberg.org/2009/agents/39673
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38831#The-Barb-and-the-Bridle--13-A-Handbook-of-Equitation-for-Ladies-and-Manual-of-Instruction-in-_
 gutenberg_issued: '2012-02-11'
 gutenberg_type: Text
 identifiers:
